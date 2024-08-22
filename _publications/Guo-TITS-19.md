@@ -2,7 +2,7 @@
 title: "Ecological adaptive cruise control and energy management strategy for hybrid electric vehicles based on heuristic dynamic programming"
 collection: publications
 permalink: /publication/Guo-TITS-19
-date: 2019-09
+date: 2019-09-1
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8532099'
 pubtype: 'journal'
