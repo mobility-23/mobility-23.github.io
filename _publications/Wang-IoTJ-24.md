@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Wang-IoTJ-24
 date: 2024-05-1
 venue: 'IEEE Internet of Things Journal'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10587201'
+paperurl: "" #'https://ieeexplore.ieee.org/abstract/document/10587201'
 pubtype: 'journal'
 authors: 'Zhuang Wang, Guoqiang Li#, Zhenpo Wang'
 excerpt_separator: ""
