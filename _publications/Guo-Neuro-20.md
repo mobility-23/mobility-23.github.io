@@ -1,7 +1,7 @@
 ---
 title: "Integrated adaptive dynamic programming for data-driven optimal controller design"
 collection: publications
-permalink: /publication/Guo-Neuro-20.md
+permalink: /publication/Guo-Neuro-20
 date: 2020-08-25
 venue: 'Neurocomputing'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0925231220306809'
