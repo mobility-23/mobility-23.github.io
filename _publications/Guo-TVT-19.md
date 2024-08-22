@@ -2,7 +2,7 @@
 title: "Fuel-efficient gear shift and power split strategy for parallel HEVs based on heuristic dynamic programming and neural networks"
 collection: publications
 permalink: /publication/Guo-TVT-19
-date: 2019-10-1
+date: 2019-10-2
 venue: 'IEEE Transactions on Vehicular Technology'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8758927'
 pubtype: 'journal'
