@@ -2,7 +2,7 @@
 title: "Energy management strategy for parallel hybrid electric vehicles based on approximate dynamic programming and velocity forecast"
 collection: publications
 permalink: /publication/Guo-JoFI-19
-date: 2019-11
+date: 2019-11-03
 venue: 'Journal of the Franklin Institute'
 paperurl: '[https://ieeexplore.ieee.org/abstract/document/10587201](https://www.sciencedirect.com/science/article/abs/pii/S001600321930643X)'
 pubtype: 'journal'
