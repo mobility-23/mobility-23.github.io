@@ -14,5 +14,7 @@ My research interests focus on the intersection of optimization and machine lear
 Contact info
 ======
 Beijing Institute of Technology
+
 Zhongguancun South Road 5, Haidian District
+
 100081 Beijing China
