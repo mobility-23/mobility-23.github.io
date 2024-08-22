@@ -1,0 +1,13 @@
+---
+title: "Ecological adaptive cruise control for vehicles with step-gear transmission based on reinforcement learning"
+collection: publications
+permalink: /publication/Guo-TITS-20.md
+date: 2020-11
+venue: 'IEEE Transactions on Intelligent Transportation Systems'
+paperurl: '[https://ieeexplore.ieee.org/abstract/document/10587201](https://www.sciencedirect.com/science/article/abs/pii/S001600321930643X)'
+pubtype: 'journal'
+authors: 'Guoqiang Li, Daniel Görges'
+excerpt_separator: ""
+---
+
+In this paper an ecological adaptive cruise controller to reduce the fuel consumption and ensure the safe inter-vehicle distance for vehicles with step-gear transmissions is presented. An optimal control strategy using reinforcement learning with a novel actor-gear-critic architecture is proposed to obtain the continuous traction force trajectory and the discrete gear shift schedule. The traction force is determined from an actor network to maintain a desired inter-vehicle distance which improves the driving safety in a car-following process. The gear shift schedule is derived from a gear network to reduce the fuel consumption. The control strategy is model-free and allows continuous online learning for different driving situations without look-ahead velocity information. Particularly the nonlinear vehicle dynamics, the nonlinear transmission efficiency map for different gear ratios, and the nonlinear fuel consumption map are learned for fuel consumption reduction. The proposed controller is evaluated for different driving scenarios to demonstrate its robustness. Furthermore simulation comparisons for different gear shift schedules and velocity trajectories are given underling the advantages in terms of fuel economy and driving safety.
