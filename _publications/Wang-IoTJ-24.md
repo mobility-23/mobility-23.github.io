@@ -1,10 +1,10 @@
 ---
 title: "GPS Attack Detection and Defense for Secure Localization of Automated Vehicles Based on Vehicle-to-Vehicle Technology"
 collection: publications
-permalink: /publication/book
+permalink: /publication/Wang-IoTJ-24
 date: 2024-05-1
 venue: 'IEEE Internet of Things Journal'
-paperurl: 'https://arxiv.org/abs/2403.12346'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10587201'
 pubtype: 'journal'
 authors: 'Zhuang Wang, Guoqiang Li#, and Zhenpo Wang'
 excerpt_separator: ""
