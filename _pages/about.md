@@ -12,7 +12,7 @@ My name is Guoqiang Li, coming from Inner Mongolia, China. I am currently an ass
 My research focuses on the intersection of optimization and machine learning, with applications to the safety and security of connected automated driving systems.
 
 
-Research interests
+*Research interests*
 ======
 -	AI and ML in Connected and Automated Vehicles (CAV)
 -	Fault Diagnose and Resilient Control
