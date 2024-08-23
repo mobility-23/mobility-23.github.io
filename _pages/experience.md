@@ -36,7 +36,7 @@ redirect_from:
 *	Excellent Postgraduate of Beijing, Beijing Municipal Education Commission, China , 2014
 *	Postgraduate Government Scholarship, Ministry of Education, China, 2013
 
-**Service**
+**Academic service**
 
 Session Chair:
 * IEEE International Conference on Mechatronics and Automation (ICMA), 2023
