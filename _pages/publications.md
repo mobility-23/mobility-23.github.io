@@ -17,7 +17,7 @@ Preprints
 ----------
 
 
-Journal Publication
+Journal Articles
 ----------
 (*:  corresponding author; †: supervised student))
 
@@ -76,7 +76,10 @@ Advanced Robotics and Its Social Impacts (ARSO), Hong Kong, 2024.
 
 * [2] __Guoqiang Li__, Daniel Görges (2018) Learning-based Eco-adaptive Cruise Control for Vehicles withStep-gear Transmission. 14th International Symposium on Advanced Vehicle Control (AVEC), Beijing, China, 2018.
 
-* [1] __Guoqiang Li__, Daniel Görges (2011) Hybrid Modelling and Predictive Control of the Power Split and Gear Shift in HEVs. IEEE Vehicle Power and Propulsion Conference (VPPC), France, 2017.
+* [1] __Guoqiang Li__, Daniel Görges (2017) Hybrid Modelling and Predictive Control of the Power Split and Gear Shift in HEVs. IEEE Vehicle Power and Propulsion Conference (VPPC), France, 2017.
+
+
+
 
 
 
