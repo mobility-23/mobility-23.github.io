@@ -50,3 +50,8 @@ Grant Reviewer:
 
 Technical Committee:
 * 2024 International Conference on Intelligent Vehicles (ICoIV 2024), 2024
+
+
+**Journal Reviewer**
+
+ IEEE T-IV, IEEE-T-ITS, IEEE-TVT, IEEE-TIE, IEEE-TII, IEEE-T-IFS, MSSP, Neurocomputing, etc. 
