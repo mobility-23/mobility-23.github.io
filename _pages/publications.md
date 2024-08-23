@@ -9,7 +9,7 @@ author_profile: true
 
 [Google Scholar]
 
-Book Chapter
+Book
 ----------
 * [1] Guoqiang Li, "Optimal Control of Vehicles with Advanced Powertrain Systems in terms of Energy Efficiency". Shaker Verlag, ISBN 978-3-8440-7014-9,2019,Germany
 
