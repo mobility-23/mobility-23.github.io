@@ -11,12 +11,16 @@ author_profile: true
 
 Book Chapter
 ----------
-* [1] **Liu, W.**, Zhang, F., Wang, X., Tang, Y. (2023) A review of selected transport pricing, funding and financing issues in Asia. Handbook on Transport Pricing and Financing, edited by Alejandro Tirachini, Daniel Hörcher, Erik Verhoef, 380-393.
+* [1] Guoqiang Li, "Optimal Control of Vehicles with Advanced Powertrain Systems in terms of Energy Efficiency". Shaker Verlag, ISBN 978-3-8440-7014-9,2019,Germany
+
 
 Journal Publication
 ----------
-* [88] Li, C., **Liu, W.**, Yang, H. (2024) Deep Causal Inference for Understanding the Impact of Meteorological Variations on Traffic. Transportation Research Part C: Emerging Technologies, 104406. ([Download](https://doi.org/10.1016/j.trc.2024.104744)) 
-* [87] Zhong, L., Xu, G., **Liu, W.** (2024) Energy-efficient and demand-driven train timetable optimization with a flexible train composition mode. Energy, 305, 132183. ([Download](https://doi.org/10.1016/j.energy.2024.132183))
+(*:  corresponding author; †: Research student advised ))
+
+* [xx] Zhuang Wang†, __Guoqiang Li\*__, Zhenpo Wang. (2024) GPS Attack Detection and Defense for Secure Localization of Automated Vehicles Based on Vehicle-to-Vehicle Technology. Transportation Research Part C: Emerging Technologies, 104406. ([Download](https://ieeexplore.ieee.org/abstract/document/10587201/)) 
+* [xx] Yu Lu†, __Guoqiang Li\*__, Yu Yue, Zhenpo Wang (2024) Fault Detection and Data-driven Optimal Adaptive Fault-tolerant Control for Autonomous Driving using Learning-based SMPC. IEEE Transactions on
+Intelligent Vehicles. ([Download](https://ieeexplore.ieee.org/abstract/document/10587201))
 
 
 
