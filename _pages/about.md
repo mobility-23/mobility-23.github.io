@@ -50,6 +50,13 @@ With increasing internet of things and electronics in high-level autonomous driv
 ![image](https://github.com/user-attachments/assets/a1bfcfae-9fac-47a0-93cc-707823a1db1e)
 
 
+- **Adversarial Learning and Robust Analysis on Trajectory Prediction for Autonomous Driving**
+
+The accuracy of trajectory prediction is vital to ensure the safety of autonomous vehicles by enabling them to anticipate the future actions of nearby traffic participants. Recent trajectory prediction models based on deep neural networks have shown outstanding performance on large-scale benchmarks; however, it is vulnerable to malicious and adversarial attacks. These attacks exploit vulnerabilities in the models by making imperceptible modifications to the input data, resulting in incorrect predictions or classification outcomes. Therefore, the security and robustness of the DL-based trajectory prediction models is necessary. Targeting this, this work proposes an adversarial attack method on trajectory prediction using generative adversarial networks. The networks are trained through game learning between the generator and the discriminator to obtain the adversarial trajectories with real driving feature distribution. MPC is then applied to optimize the adversarial trajectories, ensuring kinematically feasible for driving. The derived adversarial attack can lead to considerable deviation errors in trajectory prediction. It would help to evaluate and improve the stability and robustness of the trajectory prediction models.
+
+![image](https://github.com/user-attachments/assets/6f2aeb82-82c9-4a17-93f7-4992394062e0)
+
+
 
 Contact info
 ======
