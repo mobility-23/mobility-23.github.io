@@ -29,7 +29,7 @@ Dr.Guoqiang Li is currently an associate professor in the School of Mechanical E
 In the real traffic situation, the complex dynamic environment contains lots of uncertainties, bringing challenges in safe driving. The changes in internal parameters of the ego vehicle, e.g. mass (from passengers, cargo), tire characteristics (from the load, pressure, temperature), lead to modeling mismatches. Moreover, the uncertain motion of obstacle vehicles can lead to unexpected driving behaviors, posing great challenges in safe driving. Targeting this, a novel meta-learning-based trajectory optimization approach for safe autonomous driving is proposed to address the uncertainty of environment and obstacle motion. The method leverages meta-learning for the model online adaption and trajectory optimization for active collision avoidance considering the motion uncertainty of multiple obstacles. It can achieve 100% collision-free for safe driving in complex scenarios involving multiple obstacles under motion uncertainty, providing safety capability for reliable autonomous driving. The test video can be found here. ([Viedo](https://youtu.be/Dx5L-fe4lTo))
 
 #![image](https://github.com/user-attachments/assets/49c26738-e60c-4914-b95a-935027777bad) TODO
-#<img src="./images/激光雷达.png" alt="drawing" width="10"/>
+
 
 - **Fault Detection and Data-driven Active Fault-tolerant Control for Autonomous Driving**
 
