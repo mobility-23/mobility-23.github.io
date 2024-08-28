@@ -8,7 +8,7 @@ Recent Projects
 -----------
 
 * Research on motion planning and energy-saving for electrified vehicles based on multi-information fusion,	National Nature Science Foundation of China, PI, 2023.1 – 2025.12.
-* Research on key technology for end-to-end learning-based autonomous driving system with multi-sensor fusion, Beijing Municipal Natural Science Foundation, PT, 2023.1 – 2025.12.
+* Research on key technology for end-to-end learning-based autonomous driving system with multi-sensor fusion, Beijing Municipal Natural Science Foundation, PI, 2023.1 – 2025.12.
 * Research on early warning and safe operation for electrified vehicles, Key Science and Technology Special Projects Plan of Shanxi, PI, 2022.1 – 2024.12.
 * Research on energy saving and trajectory planning for new energy vehicles, BIT Research Fund Program for Young Scholars, PI, 2021.9 - 2024.12.
 * Navigation and simulation platform for intelligent autonomous systems, Industry Project from Suzhou Tongfu Technology Company, PI, 2024.1 – 2024.12.
