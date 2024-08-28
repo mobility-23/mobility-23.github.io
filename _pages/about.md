@@ -43,7 +43,9 @@ In automated vehicles, the growing number of sensors have increased the system c
 
 For high-level AD particularly level-3 and above, the localization plays a crucial role in the vehicle safe navigation which usually requires centimeter-level positioning. Due to reliance on sensor inputs, the vehicle localization is vulnerable to sensor spoofing attacks. Recent results show that GPS spoofing attack has become one main threat,  which is highly critical for safe transportation. To solve the cyber-security problem, a systematic study regarding the security of the localization under GPS spoofing is explored for safe and reliable autonomous driving. The method applies the lateral direction localization from camera and map to detect and defend against advanced GPS adversarial attack. It shows best performance compared to the state-of-the-art detection approaches. The position estimation for attack defense is effective and robust in different driving scenarios, ensuring safe and reliable AD in closed-loop form. This is the first systematic exploration of GPS attack detection and defense approach for connected automated vehicles to improve the driving safety. The test video can be found here. ([Video](https://youtu.be/EoVc7oahOx4))
 
-<img src="https://github.com/user-attachments/assets/8b597a22-8912-4e9b-8046-17b360d765c1" alt="drawing" width="400"/>
+<div align=center>
+	<img src="https://github.com/user-attachments/assets/8b597a22-8912-4e9b-8046-17b360d765c1" alt="drawing" width="300"/>
+</div>
 
 - **Data-driven Adaptive Resilient Control for Safe Driving under Actuator Attack**
 
@@ -55,8 +57,9 @@ With increasing internet of things and electronics in high-level autonomous driv
 
 The accuracy of trajectory prediction is vital to ensure the safety of autonomous vehicles by enabling them to anticipate the future actions of nearby traffic participants. Recent trajectory prediction models based on deep neural networks have shown outstanding performance on large-scale benchmarks; however, it is vulnerable to malicious and adversarial attacks. These attacks exploit vulnerabilities in the models by making imperceptible modifications to the input data, resulting in incorrect predictions or classification outcomes. Therefore, the security and robustness of the DL-based trajectory prediction models is necessary. Targeting this, this work proposes an adversarial attack method on trajectory prediction using generative adversarial networks. The networks are trained through game learning between the generator and the discriminator to obtain the adversarial trajectories with real driving feature distribution. MPC is then applied to optimize the adversarial trajectories, ensuring kinematically feasible for driving. The derived adversarial attack can lead to considerable deviation errors in trajectory prediction. It would help to evaluate and improve the stability and robustness of the trajectory prediction models.
 
-<img src="https://github.com/user-attachments/assets/6f2aeb82-82c9-4a17-93f7-4992394062e0" alt="drawing" width="400"/>
-
+<div align=center>
+	<img src="https://github.com/user-attachments/assets/6f2aeb82-82c9-4a17-93f7-4992394062e0" alt="drawing" width="400"/>
+</div>
 
 Contact info
 ======
