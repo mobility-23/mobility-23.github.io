@@ -37,7 +37,9 @@ In the real traffic situation, the complex dynamic environment contains lots of 
 
 In automated vehicles, the growing number of sensors have increased the system complexity, making the vehicles susceptible to faults. The widely applied drive-by-wire technologies have also brought great demand in the system redundancy. When the vehicle suffers from faults on key components, it may lose stability and cause potential danger during driving without timely full control or effective takeover by human drivers. Therefore, real-time fault detection and active fault-tolerant control on vehicles play significant role to effectively prevent potential accidents and ensure safe autonomous driving. To improve the system stability and safety, a novel data-driven optimal adaptive fault-tolerant control method with model learning is developed for automated vehicles to enable effective and safe driving under various faults. It can efficiently detect both actuator and sensor faults and achieve the highest performance metric. The method realizes effective tracking performance with less lateral error with dynamic model online learning compared to robust control methods, leading to driving safety and reliability. The codes are open-sourced here. ([Code](https://github.com/mobility-23/Fault-Tolerant-Control-System))
 
-<img src="../images/lu.jpg" alt="drawing" width="400"/>
+<div align=center>
+	<img src="../images/lu.jpg" alt="drawing" width="350"/>
+</div>
 
 - **Attack Detection and Secure State Estimation for Localization**
 
