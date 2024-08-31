@@ -21,7 +21,12 @@ Journal Articles
 ----------
 (*:  corresponding author; †: supervised student))
 
-* [14] Zhuang Wang†, __Guoqiang Li\*__, Zhenpo Wang. (2024) GPS Attack Detection and Defense for Secure Localization of Automated Vehicles Based on Vehicle-to-Vehicle Technology. Transportation Research Part C: Emerging Technologies, 104406. ([Download](https://ieeexplore.ieee.org/abstract/document/10587201/)) 
+* [15] Qingming Chen†, __Guoqiang Li\*__, Peng Liu, Zhenpo Wang. (2024) Anomaly Detection and Secure Position Estimation against GPS Spoofing Attack —a Security-critical Study of Localization in
+Autonomous Driving. IEEE Transactions on Vehicular Technology. ([Download](https://ieeexplore.ieee.org/abstract/document/10587201/))
+  
+* [14] Zhuang Wang†, __Guoqiang Li\*__, Zhenpo Wang. (2024) GPS Attack Detection and Defense for Secure Localization of Automated Vehicles Based on Vehicle-to-Vehicle Technology. IEEE Internet of Things
+Journal. ([Download](https://ieeexplore.ieee.org/abstract/document/10587201/))
+
 * [13] Yu Lu†, __Guoqiang Li\*__, Yu Yue, Zhenpo Wang (2024) Fault Detection and Data-driven Optimal Adaptive Fault-tolerant Control for Autonomous Driving using Learning-based SMPC. IEEE Transactions on
 Intelligent Vehicles. ([Download](https://ieeexplore.ieee.org/abstract/document/10587201))
 
